@@ -4,3 +4,6 @@
 
 ### Index file (conspiracy) ###
 /dashboards/index.erb
+
+### Idea ###
+/.idea/*

@@ -29,4 +29,6 @@
 ```
     > dashing start
 ```
+### Demo ###
 
+![](https://github.com/MaDream/dashboard-dashing-/blob/master/lt-dashboard_v0.1.3/Screenshots/example.png "Example")

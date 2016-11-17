@@ -3,7 +3,7 @@
 1. Tools
  - Ruby (higher than 2.2.2)
  - Dashing framework (check out http://shopify.github.com/dashing for more information.)
-2. Third party widgets
+2. [Third party widgets](https://github.com/Shopify/dashing/wiki/Additional-Widgets)
  - [Google calendar](https://gist.github.com/jsyeo/39d3fde3afbffdd31093)
  - [Atlassian Jira Agile: Tasks left in sprint](https://github.com/SocialbitGmbH/DashingJiraTasksLeftWidget)
  - [Atlassian Jira Agile: Tasks done in sprint](https://github.com/SocialbitGmbH/DashingJiraTasksDoneWidget)

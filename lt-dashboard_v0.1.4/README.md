@@ -23,7 +23,7 @@
 2. Create your credentials.yml using example
 3. Bundle
 ```
-    > bundler install
+    > bundle install
 ```
 ### Starting dashboard ###
 ```

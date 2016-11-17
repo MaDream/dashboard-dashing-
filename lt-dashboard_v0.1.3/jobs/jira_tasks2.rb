@@ -9,7 +9,7 @@ require 'openssl'
 config_file = File.dirname(File.expand_path(__FILE__)) + '/../config/credentials.yml'
 config = YAML::load(File.open(config_file))
 
-jira_board_id      = config['jira_board_id']
+jira_board_id      = config['jira_board_id2']
 jira_username      = config['jira_username']
 jira_password      = config['jira_password']
 jira_url           = config['jira_url']

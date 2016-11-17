@@ -13,9 +13,9 @@
  - Jira tasks (just 2in1)
  - Server status docker
     - Getting remote machines stats (CPU usage, RAM usage, HDD usage)
-    - Looking for containers on remote machines
+    - Looking for docker containers on remote machines
     - Showing running and stopped containers
-    - Showing if envairments are up or down depends on running and stopped containers 
+    - Showing if environments are up or down depends on running and stopped containers 
 
 ### Configuring ###
 

@@ -293,7 +293,7 @@ SCHEDULER.every '20s', :first_in => 0 do |job|
         color = "red"
         result = 0 
       end
-      statuses3.push({label: "Test-Omni", value: result, arrow: arrow, color: color})
+      statuses3.push({label: "Pre-Omni", value: result, arrow: arrow, color: color})
     end
     send_event('docker_status1', {items: statuses1})
     send_event('docker_status2', {items: statuses2})

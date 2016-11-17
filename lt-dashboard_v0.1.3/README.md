@@ -15,7 +15,7 @@
     - Getting remote machines stats (CPU usage, RAM usage, HDD usage)
     - Looking for docker containers on remote machines
     - Showing running and stopped containers
-    - Showing if envairments are up or down depends on running and stopped containers 
+    - Showing if environments are up or down depends on running and stopped containers 
 
 ### Configuring ###
 

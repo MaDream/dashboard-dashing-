@@ -1,0 +1,1 @@
+class Dashing.ServerStatusDocker extends Dashing.Widget

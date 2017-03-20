@@ -1,0 +1,1 @@
+class Dashing.DockerResource extends Dashing.Widget

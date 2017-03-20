@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b5bdd16-c940-4874-af6f-5769f632f622" name="Default" comment="" />
+    <ignored path="lt-dashboard.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/.tmp/" />
+    <ignored path="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/temp/" />
+    <ignored path="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="lt-dashboard" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="credentials.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/credentials.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/dashboards/server_status.erb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/server_status.rb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/widgets/server_status/server_status.html" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/server_status_docker.rb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/assets/javascripts/application.coffee" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/dashboards/index.erb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/github.yml" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/teamcity.rb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/Gemfile" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/widgets/google_calendar/google_calendar.scss" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/widgets/server_status/server_status.scss" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/docker_status_new.rb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/jobs/docker_status_new.rb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/docker_status.log" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.3/jobs/docker_status_new.rb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.5/jobs/docker_status_new.rb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.6/jobs/docker_status_new.rb" />
+        <option value="$PROJECT_DIR$/../lt-dashboard_v0.1.5.7/jobs/docker_status_new.rb" />
+        <option value="$PROJECT_DIR$/config/credentials.yml" />
+        <option value="$PROJECT_DIR$/jobs/docker_status_new.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="27" />
+    <option name="width" value="1602" />
+    <option name="height" value="874" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lt-dashboard_v0.1.8.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lt-dashboard_v0.1.8.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lt-dashboard_v0.1.8.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lt-dashboard_v0.1.8.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jobs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lt-dashboard_v0.1.8.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lt-dashboard_v0.1.8.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/mnt/Project" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/../../../../node_modules/mocha" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5bdd16-c940-4874-af6f-5769f632f622" name="Default" comment="" />
+      <created>1478504572585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1478504572585</updated>
+      <workItem from="1478504573809" duration="6107000" />
+      <workItem from="1478586824951" duration="43321000" />
+      <workItem from="1478692141960" duration="29910000" />
+      <workItem from="1478850359825" duration="6122000" />
+      <workItem from="1479115759288" duration="9112000" />
+      <workItem from="1479372434903" duration="4361000" />
+      <workItem from="1479384584841" duration="724000" />
+      <workItem from="1481198142561" duration="13877000" />
+      <workItem from="1482323741689" duration="1608000" />
+      <workItem from="1482326905288" duration="2711000" />
+      <workItem from="1482329800473" duration="1366000" />
+      <workItem from="1482395372361" duration="4286000" />
+      <workItem from="1483002878276" duration="1585000" />
+      <workItem from="1485425291435" duration="7804000" />
+      <workItem from="1485856776305" duration="77000" />
+      <workItem from="1486390674340" duration="1629000" />
+      <workItem from="1487053027200" duration="46000" />
+      <workItem from="1487231997026" duration="1029000" />
+      <workItem from="1487241134019" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="135742000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="27" width="1602" height="874" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26903227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40766075" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.rb" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/jira_tasks_done.1.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/jira_tasks_left.1.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/jira_tasks_left.2.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/Gemfile" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/Gemfile.lock" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/dashboards/index.erb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/server_status.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/server_status_docker.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/Gemfile.lock" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/Gemfile" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/dashboards/server_status.erb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/server_status/server_status.html" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/server_status/server_status.scss" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/server_status/server_status.coffee" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/dashboards/sample.erb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/dashboards/sampletv.erb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/text/text.scss" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/text/text.html" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/server_status/server_status.coffee" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/server_status.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/dashboards/server_status.erb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/assets/javascripts/application.coffee" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/server_status/server_status.html" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/config.ru" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/jobs/buzzwords.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/jobs/convergence.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/github_stats.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/jira_tasks_done.1.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/jira_tasks_left.1.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/sample.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/server_status_docker.rb" />
+    <entry file="file://$PROJECT_DIR$/../Gemfile" />
+    <entry file="file://$PROJECT_DIR$/../Gemfile.lock" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/jobs/jira_tasks_left.2.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/Gemfile.lock" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.1/github.yml" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/google_calendar/google_calendar.scss" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/server_status/server_status.scss" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/Gemfile" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/jobs/google_calendar.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/jobs/teamcity.rb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/dashboards/index.erb" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/server_status_docker/server_status_docker.html" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/team_city/team_city.scss" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/widgets/server_status_docker/server_status_docker.scss" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/docker_status.log" />
+    <entry file="file://$PROJECT_DIR$/../lt-dashboard_v0.1.5.2/jobs/docker_status_new.rb" />
+    <entry file="file://$PROJECT_DIR$/docker_status.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs/google_calendar.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jobs/docker_status_new.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/credentials.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

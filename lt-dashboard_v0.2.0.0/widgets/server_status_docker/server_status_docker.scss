@@ -1,0 +1,82 @@
+$background-color:  #C0FFA2;
+$value-color:       #2E2E2E;
+
+$title-color:       rgba(50, 50, 50, 0.7);
+$label-color:       rgba(50, 50, 50, 0.7);
+$labelInfo-color:   rgba(99, 99, 99, 0.7);
+$moreinfo-color:    rgba(50, 50, 50, 0.7);
+$errorInfo-color:   rgba(150, 50, 50, 0.7);
+$sizeInfo-color:    rgba(50, 50, 150, 0.7);
+
+// ----------------------------------------------------------------------------
+// Widget-list styles
+// ----------------------------------------------------------------------------
+.widget-server-status-docker {
+
+  background-color: $background-color;
+  vertical-align: top;
+
+  .title {
+    color: $title-color;
+  }
+
+  ol, ul {
+    margin: 0 15px;
+    text-align: left;
+    color: $label-color;
+    list-style-type: none;
+  }
+
+  ol {
+    list-style-position: inside;
+  }
+
+  li {
+    margin-bottom: 5px;
+  }
+
+  .list-nostyle {
+    list-style: none;
+  }
+
+  .label {
+    color: $label-color;
+  }
+
+  .labelInfo {
+    color: $labelInfo-color;
+  }
+
+  .sizeInfo
+  {
+    color: $sizeInfo-color;
+  }
+
+  .errorInfo
+  {
+    color: $errorInfo-color;
+  }
+
+  .value {
+    float: left;
+    margin-left: 12px;
+    font-weight: 600;
+    color: $value-color;
+  }
+
+  .updated-at {
+    color: rgba(0, 0, 0, 0.3);
+  }
+
+  .more-info {
+    color: $moreinfo-color;
+  }
+
+  .red {
+    color: red;
+  }
+
+  .green {
+    color: green;
+  }
+}

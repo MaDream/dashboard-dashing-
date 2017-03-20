@@ -1,0 +1,34 @@
+Job is going to start...
+
+Job started
+Connected to test-omni
+Machine info pushed (test-omni)
+Ended for test-omni
+Connected to pre-omni
+Machine info pushed (pre-omni)
+Ended for pre-omni
+Connected to dev-omni
+Machine info pushed (dev-omni)
+Ended for Dev-Workspace
+Sending events
+Events sended
+Arrays cleared
+Job done
+_____________________________________________
+
+Job started
+Connected to test-omni
+Machine info pushed (test-omni)
+Ended for test-omni
+Connected to pre-omni
+Machine info pushed (pre-omni)
+Ended for pre-omni
+Connected to dev-omni
+Machine info pushed (dev-omni)
+Ended for Dev-Workspace
+Sending events
+Events sended
+Arrays cleared
+Job done
+_____________________________________________
+

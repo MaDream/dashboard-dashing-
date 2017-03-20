@@ -1,0 +1,156 @@
+---
+template-data-id1: "data: {\"items\":[{\"title\":\"Interaction\",\"projects\":[{\"name\":\"Компоненты
+  команды Workspace\",\"id\":\"OWS\",\"description\":\"Компоненты команды Workspace\",\"build_types\":[{\"id\":\"OWS_OwsArtefact\",\"name\":\"OWS
+  Artefact\",\"last_build\":{\"id\":17869,\"number\":\"Version 3.0.59-omni11dev\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"nikita.ab\"}},{\"id\":\"OWS_OwsAutotests\",\"name\":\"OWS
+  Autotests\",\"last_build\":{\"id\":17493,\"number\":\"45\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"agent2\"}},{\"id\":\"OWS_DesktopAppLinux\",\"name\":\"Desktop
+  App Linux\",\"last_build\":{\"id\":17867,\"number\":\"332 v  3.0.13 prod\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"ivadik05\"}},{\"id\":\"OWS_DesktopAppMac\",\"name\":\"Desktop
+  App Mac\",\"last_build\":{\"id\":16089,\"number\":\"111 v  3.0.13 prod\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"ivadik05\"}},{\"id\":\"OWS_DesktopAppWindows\",\"name\":\"Desktop
+  App Windows\",\"last_build\":{\"id\":17846,\"number\":\"672 v 3.0.8 prod\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"ivadik05\"}},{\"id\":\"OWS_SeleniumE2Etests\",\"name\":\"E2E
+  Selenium-tests\",\"last_build\":{\"id\":17681,\"number\":\"0.1.1038\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"nikita.ab\"}},{\"id\":\"OWS_E2eCustomerCare\",\"name\":\"E2E
+  Customer-Care\",\"last_build\":{\"id\":17261,\"number\":\"0.1.29\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"mail\"}},{\"id\":\"OWS_XssInjectionTests\",\"name\":\"XSS
+  Injection Tests\",\"last_build\":{\"id\":17857,\"number\":\"221\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"const.alexander\"}},{\"id\":\"OWS_SQLmap\",\"name\":\"SQL
+  Injection Tests\",\"last_build\":{\"id\":17855,\"number\":\"237\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"Unassigned\"}},{\"id\":\"OWS_ChainA\",\"name\":\"Chain
+  A\",\"last_build\":{\"id\":16865,\"number\":\"37\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"Unassigned\"}},{\"id\":\"OWS_ChainB\",\"name\":\"Chain
+  B\",\"last_build\":{\"id\":17219,\"number\":\"102\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"Unassigned\"}},{\"id\":\"OWS_TestGitHubReleases\",\"name\":\"Test
+  GitHub Releases\",\"last_build\":{\"id\":16549,\"number\":\"71\",\"state\":\"finished\",\"status\":\"SUCCESS\",\"username\":\"Unassigned\"}}]}]}],\"id\":\"template-data-id1\",\"updatedAt\":1489580412}\n\n"
+docker_status1: "data: {\"items\":[{\"labelInfo\":\"Machine info:\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"CPU
+  usage: 66\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"RAM
+  usage - total: 16077M;\\t used: 9099M;\\t free: 6977M.\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"Disc
+  usage - total: 89G;\\t in use: 56G;\\t available: 29G;\\t 66%.\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"______________________________________________________________________________________________________________\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Available
+  services:\",\"sizeInfo\":\"\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Chat
+  server agent server 0.1.17 \",\"sizeInfo\":\" |  32.81 kB (virtual 805.9 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  core app 4.29.57 \",\"sizeInfo\":\" |  34.42 kB (virtual 901.9 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  gateway email server 4.29.8 check 5 \",\"sizeInfo\":\" |  32.84 kB (virtual 856
+  MB) | \",\"errorInfo\":\"Errors in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  history 4.29.8 \",\"sizeInfo\":\" |  32.81 kB (virtual 846.8 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  legacy history 4.29.3 \",\"sizeInfo\":\" |  32.81 kB (virtual 841.9 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  notification delivery 4.29.4 \",\"sizeInfo\":\" |  32.81 kB (virtual 856.4 MB) |
+  \",\"errorInfo\":\"Errors in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Consul
+  agent 0.7.0 \",\"sizeInfo\":\" |  0 B (virtual 174.2 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Dashboard
+  omni \",\"sizeInfo\":\" |  4.561 MB (virtual 885.4 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Electron
+  update service app 0.0.10 \",\"sizeInfo\":\" |  17.42 MB (virtual 769.1 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Employee
+  api service 0 3.9.1 \",\"sizeInfo\":\" |  32.81 kB (virtual 843.2 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Employee
+  settings service app 0.1.3 \",\"sizeInfo\":\" |  32.81 kB (virtual 835.6 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Event
+  service app 0 0.0.26 \",\"sizeInfo\":\" |  32.77 kB (virtual 974.9 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"File
+  service app 3.1.2 \",\"sizeInfo\":\" |  32.81 kB (virtual 849.2 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Interaction
+  statistic service app 2.0.3 \",\"sizeInfo\":\" |  32.81 kB (virtual 832.3 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Kafka
+  broker 0.9.0 \",\"sizeInfo\":\" |  32.81 kB (virtual 1.003 GB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Leadhub
+  communication person translator app 0 0.0.27 \",\"sizeInfo\":\" |  32.77 kB (virtual
+  884.5 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Leadhub
+  contact miner agent app 0 0.0.70 \",\"sizeInfo\":\" |  32.77 kB (virtual 881.3 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Leadhub
+  id service app 0 0.1.100 \",\"sizeInfo\":\" |  32.77 kB (virtual 872.1 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Leadhub
+  profile service app 0 1.0.134 \",\"sizeInfo\":\" |  32.77 kB (virtual 881.8 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Messenger
+  gateway server 0.8.9 \",\"sizeInfo\":\" |  32.81 kB (virtual 842.9 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Messenger
+  gateway ui 1.2.0 \",\"sizeInfo\":\" |  32.81 kB (virtual 837.4 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Monitoring
+  influxdb 0 0.10.1 \",\"sizeInfo\":\" |  0 B (virtual 214.4 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Nginx
+  proxy 0 0.0.3 \",\"sizeInfo\":\" |  2 B (virtual 91.77 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Person
+  external profile provider app 0 0.0.17 \",\"sizeInfo\":\" |  32.77 kB (virtual 914.6
+  MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Postgresql
+  0 0.0.3 \",\"sizeInfo\":\" |  37.12 MB (virtual 421.6 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Widgets
+  api service server 0.3.2 \",\"sizeInfo\":\" |  32.81 kB (virtual 826.3 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Zookeeper
+  server 3.4.6 \",\"sizeInfo\":\" |  32.81 kB (virtual 867.8 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Unavailable
+  services:\",\"sizeInfo\":\"\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Communication-statistics-translator-app-0-0.2.45\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Statistics-job-scheduler-app-0-0.2.8\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Statistics-monitoring-grafana-0-3.1.0\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Statistics-monitoring-influxdb-0-0.13.0\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Statistics-public-api-app-0-0.2.103\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Statistics-reglament-service-app-0-0.2.9\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"}],\"id\":\"docker_status1\",\"updatedAt\":1489580422}\n\n"
+docker_status2: "data: {\"items\":[{\"labelInfo\":\"Machine info:\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"CPU
+  usage: 8\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"RAM
+  usage - total: 16077M;\\t used: 5991M;\\t free: 10085M.\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"Disc
+  usage - total: 69G;\\t in use: 6.9G;\\t available: 91%;\\t /.\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"______________________________________________________________________________________________________________\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Available
+  services:\",\"sizeInfo\":\"\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Apiv2
+  app 2.12.219 alpha \",\"sizeInfo\":\" |  4.721 MB (virtual 769.6 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  core app 4.29.57 \",\"sizeInfo\":\" |  34.42 kB (virtual 901.9 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  guarantee delivery 4.29.0 \",\"sizeInfo\":\" |  32.81 kB (virtual 827.5 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  history 4.29.8 \",\"sizeInfo\":\" |  32.81 kB (virtual 846.8 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  legacy history 4.29.3 \",\"sizeInfo\":\" |  32.81 kB (virtual 841.9 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  notification delivery 4.29.4 \",\"sizeInfo\":\" |  32.81 kB (virtual 856.4 MB) |
+  \",\"errorInfo\":\"Errors in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Consul
+  agent 0.7.0 \",\"sizeInfo\":\" |  0 B (virtual 174.2 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Employee
+  api service 0 3.9.1 \",\"sizeInfo\":\" |  32.81 kB (virtual 843.2 MB) | \",\"errorInfo\":\"Errors
+  in logs: 0\\n\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Employee
+  settings service app 0.1.2 \",\"sizeInfo\":\" |  32.81 kB (virtual 835.6 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Leadhub
+  communication person translator app 0 0.0.28 \",\"sizeInfo\":\" |  32.77 kB (virtual
+  884.5 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Leadhub
+  contact miner agent app 0 0.0.66 \",\"sizeInfo\":\" |  32.77 kB (virtual 881.3 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Leadhub
+  id service app 0 0.1.100 \",\"sizeInfo\":\" |  32.77 kB (virtual 872.1 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Leadhub
+  profile service app 0 1.0.134 \",\"sizeInfo\":\" |  32.77 kB (virtual 881.7 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Monitoring
+  influxdb 0 0.10.1 \",\"sizeInfo\":\" |  0 B (virtual 214.4 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Nginx
+  proxy 0 0.0.3 \",\"sizeInfo\":\" |  2 B (virtual 91.75 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Person
+  external profile provider app 0 0.0.17 \",\"sizeInfo\":\" |  32.77 kB (virtual 914.5
+  MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Postgres
+  \",\"sizeInfo\":\" |  37.04 MB (virtual 307.7 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Unavailable
+  services:\",\"sizeInfo\":\"\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Communication-gateway-email-server-pre-omni-1.6.0\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Communication-widget-translator-app-0-0.0.52\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Event-service-app-0-0.0.26\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"File-service-app-pre-omni-3.1.2\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Messenger-gateway-server-pre-omni-left-0.11.2\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Messenger-gateway-server-pre-omni-right-0.11.0\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Messenger-gateway-ui-pre-omni-1.2.0\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Organisation-service-app-0-0.0.29\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Sdk_auth-0-1.7.24\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Sdk_dialog-0-1.13.35\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Sdk_notification-0-1.6.9\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Sdk_presence-0-1.5.7\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Sdk_push_scala-0-1.0.15\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Sdk_visitor-0-1.6.7\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Statistics-topic-service-app-0-0.0.75\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Visitor-notification-delivery-service-app-0-0.0.39\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Visitor-presence-service-app-0-0.0.29\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Webhooks-gateway-service-app-0-0.0.2\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Widgets-api-service2-app-0-4.0.89\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Widgets-availability-service-app-0-0.0.75\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Widgets-settings-service-app-0-1.3.124\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"},{\"label\":\"Zookeeper-server-pre-omni-3.4.6\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"}],\"id\":\"docker_status2\",\"updatedAt\":1489580422}\n\n"
+docker_status3: "data: {\"items\":[{\"labelInfo\":\"Machine info:\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"CPU
+  usage: 17\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"RAM
+  usage - total: 16077M;\\t used: 7942M;\\t free: 8134M.\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"Disc
+  usage - total: 120G;\\t in use: 19G;\\t available: 95G;\\t 17%.\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"labelInfo\":\"______________________________________________________________________________________________________________\",\"label\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Available
+  services:\",\"sizeInfo\":\"\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Communication
+  core app 4.33.22 \",\"sizeInfo\":\" |  34.4 kB (virtual 902 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  gateway email server 4.33.4 \",\"sizeInfo\":\" |  32.8 kB (virtual 862 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  guarantee delivery 4.33.8 \",\"sizeInfo\":\" |  32.8 kB (virtual 840 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  history 4.33.8 \",\"sizeInfo\":\" |  32.8 kB (virtual 847 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  legacy history app 4.33.3 \",\"sizeInfo\":\" |  32.8 kB (virtual 843 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  notification delivery 4.33.4 \",\"sizeInfo\":\" |  32.8 kB (virtual 857 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  statistics translator app 0.3.48 \",\"sizeInfo\":\" |  32.8 kB (virtual 836 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Communication
+  widget translator app 0.0.52 \",\"sizeInfo\":\" |  32.8 kB (virtual 829 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Consul
+  agent 0.7.0 \",\"sizeInfo\":\" |  0 B (virtual 174 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Contact
+  miner agent app 0.0.77 \",\"sizeInfo\":\" |  32.8 kB (virtual 886 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Electron
+  update service app 0.0.10 \",\"sizeInfo\":\" |  17.4 MB (virtual 769 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Employee
+  api service app 3.10.5 \",\"sizeInfo\":\" |  32.8 kB (virtual 854 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Employee
+  settings service app 0.1.3 \",\"sizeInfo\":\" |  32.8 kB (virtual 836 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"File
+  service app 3.1.2 \",\"sizeInfo\":\" |  32.8 kB (virtual 849 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Livetex
+  balancer scala app 0.16.7 \",\"sizeInfo\":\" |  32.8 kB (virtual 838 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Online
+  monitoring service app 0.0.30 \",\"sizeInfo\":\" |  32.8 kB (virtual 861 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Organisation
+  service app 0.1.1 \",\"sizeInfo\":\" |  32.8 kB (virtual 697 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Person
+  external profile provider app 0.0.17 \",\"sizeInfo\":\" |  32.8 kB (virtual 915
+  MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Profile
+  service app 1.0.133 \",\"sizeInfo\":\" |  32.8 kB (virtual 882 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Statistics
+  job scheduler app 0.2.24 \",\"sizeInfo\":\" |  32.8 kB (virtual 830 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Statistics
+  public api app 0.2.128 \",\"sizeInfo\":\" |  32.8 kB (virtual 855 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Statistics
+  reglament service app 0.2.10 \",\"sizeInfo\":\" |  32.8 kB (virtual 822 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Statistics
+  topic aggregator app 0.3.201 \",\"sizeInfo\":\" |  32.8 kB (virtual 875 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Visitor
+  notification delivery service app 0.0.46 \",\"sizeInfo\":\" |  32.8 kB (virtual
+  695 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Visitor
+  presence service app 0.0.31 \",\"sizeInfo\":\" |  32.8 kB (virtual 698 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Widgets
+  api service v2 app 4.0.110 \",\"sizeInfo\":\" |  32.8 kB (virtual 715 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Widgets
+  availability service app 0.1.4 \",\"sizeInfo\":\" |  32.8 kB (virtual 695 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Widgets
+  settings service app 1.3.251 \",\"sizeInfo\":\" |  32.8 kB (virtual 956 MB)\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Unavailable
+  services:\",\"sizeInfo\":\"\",\"errorInfo\":\"\",\"value\":1,\"arrow\":\"\",\"color\":\"\"},{\"label\":\"Widgets-api-service-server-workspace-dev-0.3.2\",\"value\":0,\"arrow\":\"icon-warning-sign\",\"color\":\"red\"}],\"id\":\"docker_status3\",\"updatedAt\":1489580422}\n\n"
+main_docker_status: "data: {\"items\":[{\"label\":\"Test-Omni\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Pre-Omni\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"},{\"label\":\"Dev-Omni\",\"value\":1,\"arrow\":\"icon-ok-sign\",\"color\":\"green\"}],\"id\":\"main_docker_status\",\"updatedAt\":1489580422}\n\n"
+docker_resource1: "data: {\"items\":[{\"label\":\"CPU <div style=\\\"display:inline-block;
+  color:white; width:33%; background-color:#737373\\\"><div style=\\\"width:66%; font-size:
+  16pt; font-weight: normal; background-color:#6FD655\\\">66%</div></div>\",\"color\":\"#6FD655\"},{\"label\":\"<br>\",\"color\":\"\"},{\"label\":\"RAM
+  <div style=\\\"display:inline-block; color:white; width:33%; background-color:#737373\\\"><div
+  style=\\\"width:68.6%; font-size: 16pt; font-weight: normal; background-color:#6FD655\\\">68.6%</div></div>\",\"color\":\"#6FD655\"},{\"label\":\"<br>\",\"color\":\"\"},{\"label\":\"HDD
+  <div style=\\\"display:inline-block; color:white; width:33%; background-color:#737373\\\"><div
+  style=\\\"width:62.92%; font-size: 16pt; font-weight: normal; background-color:#6FD655\\\">62.92%</div></div>\",\"color\":\"#6FD655\"}],\"id\":\"docker_resource1\",\"updatedAt\":1489580422}\n\n"
+docker_resource2: "data: {\"items\":[{\"label\":\"CPU <div style=\\\"display:inline-block;
+  color:white; width:33%; background-color:#737373\\\"><div style=\\\"width:8%; font-size:
+  16pt; font-weight: normal; background-color:#6FD655\\\">8%</div></div>\",\"color\":\"#6FD655\"},{\"label\":\"<br>\",\"color\":\"\"},{\"label\":\"RAM
+  <div style=\\\"display:inline-block; color:white; width:33%; background-color:#737373\\\"><div
+  style=\\\"width:49.26%; font-size: 16pt; font-weight: normal; background-color:#6FD655\\\">49.26%</div></div>\",\"color\":\"#6FD655\"},{\"label\":\"<br>\",\"color\":\"\"},{\"label\":\"HDD
+  <div style=\\\"display:inline-block; color:white; width:33%; background-color:#737373\\\"><div
+  style=\\\"width:10.0%; font-size: 16pt; font-weight: normal; background-color:#6FD655\\\">10.0%</div></div>\",\"color\":\"#6FD655\"}],\"id\":\"docker_resource2\",\"updatedAt\":1489580422}\n\n"
+docker_resource3: "data: {\"items\":[{\"label\":\"CPU <div style=\\\"display:inline-block;
+  color:white; width:33%; background-color:#737373\\\"><div style=\\\"width:17%; font-size:
+  16pt; font-weight: normal; background-color:#6FD655\\\">17%</div></div>\",\"color\":\"#6FD655\"},{\"label\":\"<br>\",\"color\":\"\"},{\"label\":\"RAM
+  <div style=\\\"display:inline-block; color:white; width:33%; background-color:#737373\\\"><div
+  style=\\\"width:61.4%; font-size: 16pt; font-weight: normal; background-color:#6FD655\\\">61.4%</div></div>\",\"color\":\"#6FD655\"},{\"label\":\"<br>\",\"color\":\"\"},{\"label\":\"HDD
+  <div style=\\\"display:inline-block; color:white; width:33%; background-color:#737373\\\"><div
+  style=\\\"width:15.83%; font-size: 16pt; font-weight: normal; background-color:#6FD655\\\">15.83%</div></div>\",\"color\":\"#6FD655\"}],\"id\":\"docker_resource3\",\"updatedAt\":1489580422}\n\n"
+jira_tasks_left2: "data: {\"current\":\"12/23\",\"color\":\"<h3 class='value' style='margin-left:
+  5px; font-size: 200%; width: 340px; border: solid black 2px; background-color: #6fd655;
+  display: inline-block;'>Blocker & crit: 0</h3>\",\"id\":\"jira_tasks_left2\",\"updatedAt\":1489580412}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Exit strategy\",\"value\":1},{\"label\":\"Turn-key\",\"value\":1},{\"label\":\"Web
+  2.0\",\"value\":2},{\"label\":\"Enterprise\",\"value\":1},{\"label\":\"Pivoting\",\"value\":1},{\"label\":\"Synergy\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1489580424}\n\n"
+convergence: "data: {\"points\":[{\"x\":8,\"y\":43},{\"x\":9,\"y\":7},{\"x\":10,\"y\":3},{\"x\":11,\"y\":28},{\"x\":12,\"y\":21},{\"x\":13,\"y\":2},{\"x\":14,\"y\":15},{\"x\":15,\"y\":14},{\"x\":16,\"y\":9},{\"x\":17,\"y\":30}],\"id\":\"convergence\",\"updatedAt\":1489580424}\n\n"
+google_calendar: "data: {\"events\":[],\"id\":\"google_calendar\",\"updatedAt\":1489580414}\n\n"
+jira_tasks_left1: "data: {\"current\":\"48/102\",\"color\":\"<h3 class='value' style='margin-left:
+  5px; font-size: 200%; width: 340px; border: solid black 2px; background-color: #E64040;
+  display: inline-block;'>Blocker & crit: 2</h3>\",\"id\":\"jira_tasks_left1\",\"updatedAt\":1489580417}\n\n"

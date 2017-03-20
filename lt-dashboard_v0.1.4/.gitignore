@@ -1,9 +1,0 @@
-### Configure files ###
-/config/*
-!/config/credentials.example.yml
-
-### Index file (conspiracy) ###
-/dashboards/index.erb
-
-### Idea ###
-/.idea/*

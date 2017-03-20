@@ -10,12 +10,13 @@
   - [TeamCity LABS](https://github.com/FizzBuzz791/TeamCity-LABS)		
   - [Server status](https://gist.github.com/willjohnson/6313986)		
  3. Custom widgets		
-  - Jira tasks (just 2in1)		
+  - Jira tasks (just 2in1 and critical / blocker filter in addition)		
   - Server status docker		
      - Getting remote machines stats (CPU usage, RAM usage, HDD usage)		
      - Looking for docker containers on remote machines		
      - Showing running and stopped containers		
-     - Showing if environments are up or down depends on running and stopped containers 		
+     - Showing if environments are up or down depends on running and stopped containers 
+  - docker resource - using remote machine stats from server status job and views it as a status bars 
  		
  ### Configuring ###		
  		
